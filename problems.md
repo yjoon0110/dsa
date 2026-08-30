@@ -25,7 +25,7 @@ Easy:
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/) — #1 · Easy (redo with pattern in mind)
 
 Medium:
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) — #49 · Medium
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) — #49 · Medium
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) — #347 · Medium
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) — #238 · Medium
 

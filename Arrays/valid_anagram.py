@@ -15,6 +15,9 @@ def valid_anagram(nums, t):
     
     return True
 
+# def freq_table()
+
+
 
 print(valid_anagram("anagram", "nagaram"))  # True
 print(valid_anagram("rat", "car"))          # False
