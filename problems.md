@@ -12,7 +12,7 @@ No problems this week. Do this instead:
 - [ ] Solve Two Sum (below) as a warmup — don't worry about pattern yet
 
 Warmup:
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/) — #1 · Easy
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) — #1 · Easy
 
 ---
 
@@ -20,8 +20,8 @@ Warmup:
 **Pattern trigger:** Need O(1) lookup, counting frequency, or checking membership.
 
 Easy:
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) — #217 · Easy
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) — #242 · Easy
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) — #217 · Easy
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) — #242 · Easy
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/) — #1 · Easy (redo with pattern in mind)
 
 Medium:
